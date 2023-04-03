@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning JavaScript
 
-[![Maria Cenci's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mariacenci/github-readme-stats)
+[![Maria Cenci's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacenci)](https://github.com/mariacenci/github-readme-stats)
