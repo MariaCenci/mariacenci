@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning JavaScript
 
-[![Maria Cenci's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacenci)](https://github.com/mariacenci/github-readme-stats)
-![Maria Cenci's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacenci&show_icons=true&theme=dracula)
+![Maria Cenci's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacenci&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
